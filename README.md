@@ -1,1 +1,1 @@
-# Proyecto de Limpieza, Transformacion y Analisis de un DataBase de ventas
+# Proyecto de Limpieza, Transformacion y Analisis de un DataBase de ventas utlizando python pandas
